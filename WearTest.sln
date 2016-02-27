@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WearTest", "WearTest\WearTest.csproj", "{7DA4E032-D242-4C92-9302-472A01A98529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGlass", "HelloGlass\HelloGlass.csproj", "{EDFF66AB-A8D1-40EF-80A9-E35DAA96933E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Socket.IO", "Xamarin.Socket.IO-master\Xamarin.Socket.IO\Xamarin.Socket.IO\Xamarin.Socket.IO.csproj", "{282EB56C-E471-4565-B130-AC9B99196301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{282EB56C-E471-4565-B130-AC9B99196301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282EB56C-E471-4565-B130-AC9B99196301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282EB56C-E471-4565-B130-AC9B99196301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282EB56C-E471-4565-B130-AC9B99196301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA4E032-D242-4C92-9302-472A01A98529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA4E032-D242-4C92-9302-472A01A98529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA4E032-D242-4C92-9302-472A01A98529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA4E032-D242-4C92-9302-472A01A98529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFF66AB-A8D1-40EF-80A9-E35DAA96933E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFF66AB-A8D1-40EF-80A9-E35DAA96933E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFF66AB-A8D1-40EF-80A9-E35DAA96933E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFF66AB-A8D1-40EF-80A9-E35DAA96933E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

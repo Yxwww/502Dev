@@ -1,0 +1,9 @@
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/android/assets/HelloGlass.dll
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/android/assets/System.dll
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/android/assets/System.Xml.dll
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/android/assets/Mono.Android.dll
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/android/assets/Xamarin.Google.Glass.dll
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/android/assets/System.Core.dll
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/android/assets/mscorlib.dll
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/android/assets/System.Runtime.Serialization.dll
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/android/assets/System.ServiceModel.Internals.dll

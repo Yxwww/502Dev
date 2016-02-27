@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="HelloGlass/HelloGlass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.015DB75A1500701D" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloGlass/MainActivity.cs">
+    <Files>
+      <File FileName="HelloGlass/MainActivity.cs" Line="38" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WearTest" expanded="True">
+            <Node name="HelloGlass" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
+            </Node>
+            <Node name="WearTest" expanded="True" />
+            <Node name="Xamarin.Socket.IO" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloGlass AndroidDeviceId-Debug="015DB75A1500701D" />
+</Properties>

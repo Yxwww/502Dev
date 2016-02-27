@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>
+    <AdditionalAndroidResourcePath>/Users/Yuxibro/.local/share/Xamarin/Android.Support.v4/21.0.3/embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>/Users/Yuxibro/.local/share/Xamarin/Android.Wearable/1.1.0/embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>/Users/Yuxibro/.local/share/Xamarin/Android.Wearable/6.5.87/embedded</AdditionalAndroidResourcePath>
+  </AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>
+    <AdditionalJavaLibraryReference>/Users/Yuxibro/.local/share/Xamarin/Android.Support.v4/21.0.3/embedded/classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>/Users/Yuxibro/.local/share/Xamarin/Android.Support.v4/21.0.3/embedded/libs/internal_impl-21.0.3.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>/Users/Yuxibro/.local/share/Xamarin/Android.Support.v7.RecyclerView/21.0.3/embedded/classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>/Users/Yuxibro/.local/share/Xamarin/Android.Wearable/1.1.0/embedded/classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>/Users/Yuxibro/.local/share/Xamarin/Android.Wearable/6.5.87/embedded/classes.jar</AdditionalJavaLibraryReference>
+  </AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences />
+</Paths>

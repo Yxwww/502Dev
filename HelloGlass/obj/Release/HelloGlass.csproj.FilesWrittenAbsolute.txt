@@ -1,0 +1,16 @@
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/res/drawable/monoandroidsplash.png
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/res/values/styles.xml
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/bin/Release/HelloGlass.dll.mdb
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/bin/Release/HelloGlass.dll
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/bin/Release/HelloGlass.HelloGlass.apk
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/android/bin/HelloGlass.HelloGlass.apk
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/res/values/strings.xml
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/res/xml/voicetriggerstart.xml
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/res/drawable/icon.png
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/R.cs.flag
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/bin/Release/HelloGlass.HelloGlass-Signed.apk
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/uploadflags.txt
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/HelloGlass.dll
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/obj/Release/HelloGlass.dll.mdb
+/Users/Yuxibro/Downloads/WearTest/HelloGlass/bin/Release/Xamarin.Google.Glass.dll

@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Xamarin.Socket.IO/Xamarin.Socket.IO.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Socket.IO.Test/Main.cs">
+    <Files>
+      <File FileName="Socket.IO.Test/Main.cs" Line="8" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xamarin.Socket.IO" expanded="True" selected="True">
+            <Node name="Socket.IO.Test" expanded="True" />
+            <Node name="Xamarin.Socket.IO" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

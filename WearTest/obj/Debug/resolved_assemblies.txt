@@ -1,0 +1,11 @@
+/Users/Yuxibro/Downloads/WearTest/WearTest/obj/Debug/assemblies/WearTest.dll
+/Users/Yuxibro/Downloads/WearTest/WearTest/obj/Debug/assemblies/System.dll
+/Users/Yuxibro/Downloads/WearTest/WearTest/obj/Debug/assemblies/System.Xml.dll
+/Users/Yuxibro/Downloads/WearTest/WearTest/obj/Debug/assemblies/Mono.Android.dll
+/Users/Yuxibro/Downloads/WearTest/WearTest/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/Yuxibro/Downloads/WearTest/WearTest/obj/Debug/assemblies/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/Yuxibro/Downloads/WearTest/WearTest/obj/Debug/assemblies/Xamarin.Android.Wearable.dll
+/Users/Yuxibro/Downloads/WearTest/WearTest/obj/Debug/assemblies/System.Core.dll
+/Users/Yuxibro/Downloads/WearTest/WearTest/obj/Debug/assemblies/mscorlib.dll
+/Users/Yuxibro/Downloads/WearTest/WearTest/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/Yuxibro/Downloads/WearTest/WearTest/obj/Debug/assemblies/System.ServiceModel.Internals.dll
