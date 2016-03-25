@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths />
+  <AdditionalJavaLibraryReferences>
+    <AdditionalJavaLibraryReference>/Users/Yuxibro/.local/share/Xamarin/Google.Glass/220/content/google-gdk/libs/gdk.jar</AdditionalJavaLibraryReference>
+  </AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences />
+</Paths>

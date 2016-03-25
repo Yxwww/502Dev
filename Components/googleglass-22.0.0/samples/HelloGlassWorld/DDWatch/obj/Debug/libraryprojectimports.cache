@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/DDWatch/obj/Debug/__library_projects__/SoD_Xamarin_AndroidLibrary/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/DDWatch/obj/Debug/__library_projects__/SoD_Xamarin_AndroidLibrary/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/DDWatch/obj/Debug/__library_projects__/SoD_Xamarin_AndroidLibrary.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

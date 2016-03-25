@@ -1,0 +1,16 @@
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/res/drawable/monoandroidsplash.png
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/res/values/styles.xml
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/bin/Debug/HelloGlassWorld.dll.mdb
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/bin/Debug/HelloGlassWorld.dll
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/bin/Debug/HelloGlassWorld.HelloGlassWorld.apk
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/android/bin/HelloGlassWorld.HelloGlassWorld.apk
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/res/values/strings.xml
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/res/xml/voicetriggerstart.xml
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/res/drawable/icon.png
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/R.cs.flag
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/bin/Debug/HelloGlassWorld.HelloGlassWorld-Signed.apk
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/uploadflags.txt
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/HelloGlassWorld.dll
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/HelloGlassWorld.dll.mdb
+/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/bin/Debug/Xamarin.Google.Glass.dll
