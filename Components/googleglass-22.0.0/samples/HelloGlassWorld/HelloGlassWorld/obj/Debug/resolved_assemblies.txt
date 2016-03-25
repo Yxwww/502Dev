@@ -1,9 +1,0 @@
-/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/assemblies/HelloGlassWorld.dll
-/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/assemblies/System.dll
-/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/assemblies/System.Xml.dll
-/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/assemblies/Mono.Android.dll
-/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/assemblies/Xamarin.Google.Glass.dll
-/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/assemblies/System.Core.dll
-/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/assemblies/mscorlib.dll
-/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/assemblies/System.Runtime.Serialization.dll
-/Users/Yuxibro/Downloads/WearTest/Components/googleglass-22.0.0/samples/HelloGlassWorld/HelloGlassWorld/obj/Debug/assemblies/System.ServiceModel.Internals.dll
